@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 366115170645,
+      "name": "Sean Maxwell",
+      "email": "smaxwell@example.com",
+      "created": "2024-03-22T05:14:36.252Z",
+      "skills": [
+        {
+          "id": 1,
+          "name": "JavaScript",
+          "level": "Intermediate"
+        },
+        {
+          "id": 2,
+          "name": "React",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": 310946254456,
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "created": "2024-03-22T05:20:55.079Z",
+      "skills": [
+        {
+          "id": 1,
+          "name": "Java",
+          "level": "Intermediate"
+        },
+        {
+          "id": 2,
+          "name": "Spring Boot",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    {
+      "id": 143027113460,
+      "name": "Gordan Freeman",
+      "email": "nova@prospect.com",
+      "created": "2024-03-22T05:42:18.895Z",
+      "skills": [
+        {
+          "id": 1,
+          "name": "C++",
+          "level": "Intermediate"
+        },
+        {
+          "id": 2,
+          "name": "Unreal Engine",
+          "level": "Intermediate"
+        }
+      ]
+    }
+  ]
+}
